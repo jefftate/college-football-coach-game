@@ -1,0 +1,12 @@
+West Virginia,170
+Oregon,205
+Alabama,310
+Florida,230
+Indiana,90
+Wisconsin,215
+Minnesota,195
+Maryland,115
+Iowa,185
+Nebraska,250
+Illinois,150
+Michigan,285
